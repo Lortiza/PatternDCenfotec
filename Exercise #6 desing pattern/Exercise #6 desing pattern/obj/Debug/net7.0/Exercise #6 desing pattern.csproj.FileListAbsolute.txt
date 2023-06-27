@@ -1,0 +1,15 @@
+C:\Users\lkom3\source\repos\Exercise #6 desing pattern\Exercise #6 desing pattern\bin\Debug\net7.0\Exercise #6 desing pattern.exe
+C:\Users\lkom3\source\repos\Exercise #6 desing pattern\Exercise #6 desing pattern\bin\Debug\net7.0\Exercise #6 desing pattern.deps.json
+C:\Users\lkom3\source\repos\Exercise #6 desing pattern\Exercise #6 desing pattern\bin\Debug\net7.0\Exercise #6 desing pattern.runtimeconfig.json
+C:\Users\lkom3\source\repos\Exercise #6 desing pattern\Exercise #6 desing pattern\bin\Debug\net7.0\Exercise #6 desing pattern.dll
+C:\Users\lkom3\source\repos\Exercise #6 desing pattern\Exercise #6 desing pattern\bin\Debug\net7.0\Exercise #6 desing pattern.pdb
+C:\Users\lkom3\source\repos\Exercise #6 desing pattern\Exercise #6 desing pattern\obj\Debug\net7.0\Exercise #6 desing pattern.csproj.AssemblyReference.cache
+C:\Users\lkom3\source\repos\Exercise #6 desing pattern\Exercise #6 desing pattern\obj\Debug\net7.0\Exercise #6 desing pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lkom3\source\repos\Exercise #6 desing pattern\Exercise #6 desing pattern\obj\Debug\net7.0\Exercise #6 desing pattern.AssemblyInfoInputs.cache
+C:\Users\lkom3\source\repos\Exercise #6 desing pattern\Exercise #6 desing pattern\obj\Debug\net7.0\Exercise #6 desing pattern.AssemblyInfo.cs
+C:\Users\lkom3\source\repos\Exercise #6 desing pattern\Exercise #6 desing pattern\obj\Debug\net7.0\Exercise #6 desing pattern.csproj.CoreCompileInputs.cache
+C:\Users\lkom3\source\repos\Exercise #6 desing pattern\Exercise #6 desing pattern\obj\Debug\net7.0\Exercise #6 desing pattern.dll
+C:\Users\lkom3\source\repos\Exercise #6 desing pattern\Exercise #6 desing pattern\obj\Debug\net7.0\refint\Exercise #6 desing pattern.dll
+C:\Users\lkom3\source\repos\Exercise #6 desing pattern\Exercise #6 desing pattern\obj\Debug\net7.0\Exercise #6 desing pattern.pdb
+C:\Users\lkom3\source\repos\Exercise #6 desing pattern\Exercise #6 desing pattern\obj\Debug\net7.0\Exercise #6 desing pattern.genruntimeconfig.cache
+C:\Users\lkom3\source\repos\Exercise #6 desing pattern\Exercise #6 desing pattern\obj\Debug\net7.0\ref\Exercise #6 desing pattern.dll

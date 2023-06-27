@@ -1,0 +1,12 @@
+C:\Users\Luis\source\repos\Northwind.Behavioral\Northwind.Model\bin\Debug\net7.0\Northwind.Model.deps.json
+C:\Users\Luis\source\repos\Northwind.Behavioral\Northwind.Model\bin\Debug\net7.0\Northwind.Model.dll
+C:\Users\Luis\source\repos\Northwind.Behavioral\Northwind.Model\bin\Debug\net7.0\Northwind.Model.pdb
+C:\Users\Luis\source\repos\Northwind.Behavioral\Northwind.Model\obj\Debug\net7.0\Northwind.Model.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\Northwind.Behavioral\Northwind.Model\obj\Debug\net7.0\Northwind.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\Northwind.Behavioral\Northwind.Model\obj\Debug\net7.0\Northwind.Model.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\Northwind.Behavioral\Northwind.Model\obj\Debug\net7.0\Northwind.Model.AssemblyInfo.cs
+C:\Users\Luis\source\repos\Northwind.Behavioral\Northwind.Model\obj\Debug\net7.0\Northwind.Model.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\Northwind.Behavioral\Northwind.Model\obj\Debug\net7.0\Northwind.Model.dll
+C:\Users\Luis\source\repos\Northwind.Behavioral\Northwind.Model\obj\Debug\net7.0\refint\Northwind.Model.dll
+C:\Users\Luis\source\repos\Northwind.Behavioral\Northwind.Model\obj\Debug\net7.0\Northwind.Model.pdb
+C:\Users\Luis\source\repos\Northwind.Behavioral\Northwind.Model\obj\Debug\net7.0\ref\Northwind.Model.dll

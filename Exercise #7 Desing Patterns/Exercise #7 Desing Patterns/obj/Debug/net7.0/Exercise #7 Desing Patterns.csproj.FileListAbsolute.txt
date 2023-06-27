@@ -1,0 +1,15 @@
+C:\Users\Luis\source\repos\Exercise #7 Desing Patterns\Exercise #7 Desing Patterns\bin\Debug\net7.0\Exercise #7 Desing Patterns.exe
+C:\Users\Luis\source\repos\Exercise #7 Desing Patterns\Exercise #7 Desing Patterns\bin\Debug\net7.0\Exercise #7 Desing Patterns.deps.json
+C:\Users\Luis\source\repos\Exercise #7 Desing Patterns\Exercise #7 Desing Patterns\bin\Debug\net7.0\Exercise #7 Desing Patterns.runtimeconfig.json
+C:\Users\Luis\source\repos\Exercise #7 Desing Patterns\Exercise #7 Desing Patterns\bin\Debug\net7.0\Exercise #7 Desing Patterns.dll
+C:\Users\Luis\source\repos\Exercise #7 Desing Patterns\Exercise #7 Desing Patterns\bin\Debug\net7.0\Exercise #7 Desing Patterns.pdb
+C:\Users\Luis\source\repos\Exercise #7 Desing Patterns\Exercise #7 Desing Patterns\obj\Debug\net7.0\Exercise #7 Desing Patterns.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\Exercise #7 Desing Patterns\Exercise #7 Desing Patterns\obj\Debug\net7.0\Exercise #7 Desing Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\Exercise #7 Desing Patterns\Exercise #7 Desing Patterns\obj\Debug\net7.0\Exercise #7 Desing Patterns.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\Exercise #7 Desing Patterns\Exercise #7 Desing Patterns\obj\Debug\net7.0\Exercise #7 Desing Patterns.AssemblyInfo.cs
+C:\Users\Luis\source\repos\Exercise #7 Desing Patterns\Exercise #7 Desing Patterns\obj\Debug\net7.0\Exercise #7 Desing Patterns.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\Exercise #7 Desing Patterns\Exercise #7 Desing Patterns\obj\Debug\net7.0\Exercise #7 Desing Patterns.dll
+C:\Users\Luis\source\repos\Exercise #7 Desing Patterns\Exercise #7 Desing Patterns\obj\Debug\net7.0\refint\Exercise #7 Desing Patterns.dll
+C:\Users\Luis\source\repos\Exercise #7 Desing Patterns\Exercise #7 Desing Patterns\obj\Debug\net7.0\Exercise #7 Desing Patterns.pdb
+C:\Users\Luis\source\repos\Exercise #7 Desing Patterns\Exercise #7 Desing Patterns\obj\Debug\net7.0\Exercise #7 Desing Patterns.genruntimeconfig.cache
+C:\Users\Luis\source\repos\Exercise #7 Desing Patterns\Exercise #7 Desing Patterns\obj\Debug\net7.0\ref\Exercise #7 Desing Patterns.dll

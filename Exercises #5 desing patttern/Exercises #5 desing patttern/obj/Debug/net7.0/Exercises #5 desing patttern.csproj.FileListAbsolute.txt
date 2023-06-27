@@ -1,0 +1,31 @@
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\bin\Debug\net7.0\appsettings.json
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\bin\Debug\net7.0\Exercises #5 desing patttern.staticwebassets.runtime.json
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\bin\Debug\net7.0\Exercises #5 desing patttern.exe
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\bin\Debug\net7.0\Exercises #5 desing patttern.deps.json
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\bin\Debug\net7.0\Exercises #5 desing patttern.runtimeconfig.json
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\bin\Debug\net7.0\Exercises #5 desing patttern.dll
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\bin\Debug\net7.0\Exercises #5 desing patttern.pdb
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\Exercises #5 desing patttern.csproj.AssemblyReference.cache
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\Exercises #5 desing patttern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\Exercises #5 desing patttern.AssemblyInfoInputs.cache
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\Exercises #5 desing patttern.AssemblyInfo.cs
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\Exercises #5 desing patttern.csproj.CoreCompileInputs.cache
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\Exercises #5 desing patttern.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\Exercises #5 desing patttern.RazorAssemblyInfo.cache
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\Exercises #5 desing patttern.RazorAssemblyInfo.cs
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\staticwebassets\msbuild.Exercises #5 desing patttern.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\staticwebassets\msbuild.build.Exercises #5 desing patttern.props
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Exercises #5 desing patttern.props
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Exercises #5 desing patttern.props
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\scopedcss\bundle\Exercises #5 desing patttern.styles.css
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\scopedcss\projectbundle\Exercises #5 desing patttern.bundle.scp.css
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\Exercises #5 desing patttern.dll
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\refint\Exercises #5 desing patttern.dll
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\Exercises #5 desing patttern.pdb
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\Exercises #5 desing patttern.genruntimeconfig.cache
+C:\Users\lkom3\source\repos\Exercises #5 desing patttern\Exercises #5 desing patttern\obj\Debug\net7.0\ref\Exercises #5 desing patttern.dll

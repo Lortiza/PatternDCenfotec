@@ -1,0 +1,15 @@
+C:\Users\lkom3\source\repos\Exercise#1PD\Exercise#1PD\bin\Debug\net7.0\Exercise#1PD.exe
+C:\Users\lkom3\source\repos\Exercise#1PD\Exercise#1PD\bin\Debug\net7.0\Exercise#1PD.deps.json
+C:\Users\lkom3\source\repos\Exercise#1PD\Exercise#1PD\bin\Debug\net7.0\Exercise#1PD.runtimeconfig.json
+C:\Users\lkom3\source\repos\Exercise#1PD\Exercise#1PD\bin\Debug\net7.0\Exercise#1PD.dll
+C:\Users\lkom3\source\repos\Exercise#1PD\Exercise#1PD\bin\Debug\net7.0\Exercise#1PD.pdb
+C:\Users\lkom3\source\repos\Exercise#1PD\Exercise#1PD\obj\Debug\net7.0\Exercise#1PD.csproj.AssemblyReference.cache
+C:\Users\lkom3\source\repos\Exercise#1PD\Exercise#1PD\obj\Debug\net7.0\Exercise#1PD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lkom3\source\repos\Exercise#1PD\Exercise#1PD\obj\Debug\net7.0\Exercise#1PD.AssemblyInfoInputs.cache
+C:\Users\lkom3\source\repos\Exercise#1PD\Exercise#1PD\obj\Debug\net7.0\Exercise#1PD.AssemblyInfo.cs
+C:\Users\lkom3\source\repos\Exercise#1PD\Exercise#1PD\obj\Debug\net7.0\Exercise#1PD.csproj.CoreCompileInputs.cache
+C:\Users\lkom3\source\repos\Exercise#1PD\Exercise#1PD\obj\Debug\net7.0\Exercise#1PD.dll
+C:\Users\lkom3\source\repos\Exercise#1PD\Exercise#1PD\obj\Debug\net7.0\refint\Exercise#1PD.dll
+C:\Users\lkom3\source\repos\Exercise#1PD\Exercise#1PD\obj\Debug\net7.0\Exercise#1PD.pdb
+C:\Users\lkom3\source\repos\Exercise#1PD\Exercise#1PD\obj\Debug\net7.0\Exercise#1PD.genruntimeconfig.cache
+C:\Users\lkom3\source\repos\Exercise#1PD\Exercise#1PD\obj\Debug\net7.0\ref\Exercise#1PD.dll

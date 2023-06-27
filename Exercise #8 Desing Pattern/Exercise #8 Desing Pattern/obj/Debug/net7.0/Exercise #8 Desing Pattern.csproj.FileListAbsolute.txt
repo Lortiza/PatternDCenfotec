@@ -1,0 +1,20 @@
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\bin\Debug\net7.0\Exercise #8 Desing Pattern.exe
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\bin\Debug\net7.0\Exercise #8 Desing Pattern.deps.json
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\bin\Debug\net7.0\Exercise #8 Desing Pattern.runtimeconfig.json
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\bin\Debug\net7.0\Exercise #8 Desing Pattern.dll
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\bin\Debug\net7.0\Exercise #8 Desing Pattern.pdb
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\bin\Debug\net7.0\Conditions.dll
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\bin\Debug\net7.0\Observer.dll
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\bin\Debug\net7.0\Conditions.pdb
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\bin\Debug\net7.0\Observer.pdb
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\obj\Debug\net7.0\Exercise #8 Desing Pattern.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\obj\Debug\net7.0\Exercise #8 Desing Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\obj\Debug\net7.0\Exercise #8 Desing Pattern.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\obj\Debug\net7.0\Exercise #8 Desing Pattern.AssemblyInfo.cs
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\obj\Debug\net7.0\Exercise #8 Desing Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\obj\Debug\net7.0\Exercise #8 Desing Pattern.csproj.CopyComplete
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\obj\Debug\net7.0\Exercise #8 Desing Pattern.dll
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\obj\Debug\net7.0\refint\Exercise #8 Desing Pattern.dll
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\obj\Debug\net7.0\Exercise #8 Desing Pattern.pdb
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\obj\Debug\net7.0\Exercise #8 Desing Pattern.genruntimeconfig.cache
+C:\Users\Luis\source\repos\Exercise #8 Desing Pattern\Exercise #8 Desing Pattern\obj\Debug\net7.0\ref\Exercise #8 Desing Pattern.dll
